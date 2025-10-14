@@ -1,16 +1,16 @@
-# Product and Prodyct Strategy by Chaarshani
+Product  and Product Strategy Portfolio by Chaarshani
 
-This repository showcases selected projects from my MBA and product management journey.
+A curated selection of my product management projects, covering product strategy, sustainability, and technology innovation.
 
-## 🌿 G-Enzy – Sustainable Non-Toxic Cleaners
-Created MVP and business model for eco-friendly cleaning agents.
-📎 [Download Deck](./G-Enzy Non Toxic Cleansers.pptx )
+## G-Enzy – Sustainable Non-Toxic Cleaners
+Created MVP and business model for eco-friendly cleaning agents using bio-enzymes.  
+📎 [View Deck](./G-enzy%20Non%20Toxic%20Cleansers.pptx)
 
-## 🧠 Walmart Element – AI/ML Platform Strategy
-Developed commercialization and internal optimization strategy for Walmart’s ML platform.
-📎 [Download Deck](./Walmart Element.pptx)
+##  Ola Electric – Profitability & Market Leadership
+Designed a profitability roadmap and customer experience improvements for Ola Electric.  
+📎 [View Deck](./PSM%20(1).pptx)
 
-## ⚡ Ola Electric – Profitability & Market Leadership
-Designed profitability roadmap and customer experience improvements.
-📎 [Download Deck](./PSM(1).pptx)
+##  Walmart Element – AI/ML Platform Strategy
+Developed commercialization and internal optimization strategy for Walmart’s ML platform.  
+📎 [View Deck](./Walmart%20Elemert.pptx)
 
