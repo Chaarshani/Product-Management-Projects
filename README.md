@@ -2,7 +2,7 @@ Product  and Product Strategy Portfolio by Chaarshani
 
 A curated selection of my product management projects, covering product strategy, sustainability, and technology innovation.
 
-## G-Enzy – Sustainable Non-Toxic Cleaner 
+## Sustainable Non-Toxic Cleaner (Retail Product)
 Created MVP and business model for eco-friendly cleaning agents using bio-enzymes
 📎 [View Deck](./NonToxicCleaner.pdf)
 
