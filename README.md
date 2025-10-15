@@ -8,9 +8,9 @@ Created MVP and business model for eco-friendly cleaning agents using bio-enzyme
 
 ##  Ola Electric – Profitability & Market Leadership
 Designed a profitability roadmap and customer experience improvements for Ola Electric.  
-📎 [View Deck](./PSM%20(1).pptx)
+📎 [View Deck](Olaelectric.pdf)
 
 ##  Walmart Element – AI/ML Platform Strategy
 Developed commercialization and internal optimization strategy for Walmart’s ML platform.  
-📎 [View Deck](./Walmart%20Elemert.pptx)
+📎 [View Deck](./Walmartelement.pdf)
 
