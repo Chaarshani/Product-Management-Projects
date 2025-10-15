@@ -4,7 +4,7 @@ A curated selection of my product management projects, covering product strategy
 
 ## G-Enzy – Sustainable Non-Toxic Cleaners
 Created MVP and business model for eco-friendly cleaning agents using bio-enzymes.  
-📎 [View Deck](./G-enzy%20Non%20Toxic%20Cleansers.pptx)
+📎 [View Deck](./Non%20toxic%20cleaner.pdf)
 
 ##  Ola Electric – Profitability & Market Leadership
 Designed a profitability roadmap and customer experience improvements for Ola Electric.  
